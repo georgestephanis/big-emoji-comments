@@ -1,7 +1,7 @@
 # big-emoji-comments
 If someone leaves a comment comprised entirely of emoji, make it bigger.
 
-Inspired in part by Slack's Jumboji:
+Inspired in part by Slack's Jumbomoji:
 
 https://twitter.com/SlackHQ/status/710227877174743040
 
